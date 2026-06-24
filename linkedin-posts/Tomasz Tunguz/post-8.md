@@ -1,24 +1,19 @@
-Three forces are reshaping the AI cost structure :
+Yesterday Microsoft added a new metric to a model release card, one that will likely become a standard.
 
-1. Foundation labs are moving up the stack into applications ; 
-2. Frontier model prices keep rising for the smartest models ;
-3. Open-source models have crossed the good enough threshold for most use cases.
+Average token usage.
 
-The natural response from AI buyers is substitution.
+In the first row, the Microsoft model hits 71.6 on SWE-Bench Verified using about a third of the tokens Claude Haiku 4.5 burns.
 
-Coinbase :
-At Coinbase we’re working hot on routing prompts to cheaper models where appropriate, & in some cases have been able to keep costs roughly flat, while token usage continues to grow exponentially.
+Benchmarks are now measured on two different dimensions, the overall performance & the cost to achieve that intelligence.
 
-Lindy :
-Pulled the trigger today & switched 100% of Lindy traffic to DeepSeek v4, churning from Anthropic models. Saves us millions of $ & we’re actually seeing an increase in performance on many core use cases. Transformative for the business.
+This is yet another sign that the era of subsidies, tokenmaxxing,, & all-out performance for many use cases is over.
 
-Harvey :
-On a 100-task slice of our Legal Agent Benchmark (LAB), SFT moved Kimi 2.6’s all-pass rate from 11% to 15%, beating Opus’ 14%. But the cost gap was even more striking : $84 vs $954 across the same 100 tasks, or ~11x cheaper.
+Even the most valuable companies in the world cannot afford state-of-the-art intelligence for every conceivable use case. Uber capped employee AI spending after blowing through its budget in four months. Salesforce is spending $300M on Anthropic tokens & has frozen engineering hires.
 
-Cursor went further. They post-trained Kimi K2.5 into their own production model, Composer.
+This new dual benchmark answers the buyer’s only question : what is my intelligence per dollar?
 
-Composer 2.5 is exceptionally intelligent & up to 10x more efficient than similarly capable models.
+Artificial Analysis already benchmarks this. GPT 5.5 & Claude Opus 4.8 land within a point of each other on the Intelligence Index, around 60. Running the index costs $3,357 on GPT 5.5 & $4,685 on Opus 4.8. Same answer, 40% more expensive.
 
-Coinbase’s quote shows where the savings go : costs flat, tokens exponential. Buyers don’t pocket the discount ; they spend it on more intelligence.
+Model companies must now compete on both dimensions. The application layer will compete one level up, on dollars per outcome, what a closed ticket, a shipped PR, or a resolved support case actually costs.
 
-Closed models are getting more expensive at the frontier; open models are getting cheaper at parity. The choice is which slope you want under your unit economics.
+Every layer in the stack now has to price the same way the customer thinks : per result, not per token.
