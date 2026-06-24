@@ -1,0 +1,5 @@
+It's the first week of September, so naturally, you are thinking about the January sales kick-off meeting - right? 
+
+No? I get it. September is busy. So is October. But if you want to strengthen your positioning for 2025 and you haven't reworked it by December, don't be surprised if the new pitch you show at your SKO looks a lot like last year's pitch. You've got about 10 weeks to make a real change happen. 
+
+Many of the companies I work with don't think about adjusting their positioning until something big happens. Sometimes, the big thing is good (an acquisition, some big new hires, new funding), and sometimes, it's bad (a rough quarter, a painful set of lost deals, unplanned executive departures, a regulatory fine). We often think about adjusting positioning when the good stuff is happening, but having a look at it when it feels like the wheels are coming off the bus is just as important. When the chips are down, that's a very good time to make sure the team is aligned, the positioning is tight, and the company is ready to come back swinging. 
