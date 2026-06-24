@@ -1,0 +1,16 @@
+
+Post 2
+CHLOE IS LIVE.
+I'm not going to spend this post trying to convince you she's amazing.
+You should just try her.
+Most demo videos are more impressive than the actual product.
+We spent over a year making sure Chloe was the opposite.
+More than 300 businesses put Chloe to work during beta. Starting today, you can too.
+Chloe can call leads, qualify prospects, book meetings, answer questions, and keep your CRM up to date automatically.
+But what excites me most isn't any individual feature.
+It's the direction.
+Close has always been about helping sales teams take action. Chloe is the next step in that journey.
+Today that includes voice, research, enrichment, CRM updates, and Chat assistance.
+Tomorrow it will be much more.
+Let's go.
+close.com/chloe 
