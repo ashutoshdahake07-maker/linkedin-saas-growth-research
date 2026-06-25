@@ -1,1 +1,1 @@
-
+Gen Z is buying off TikTok and Instagram. Boomers want it on their doorstep in two days or they're walking into a store. Same product. Completely different purchase journey. The brands losing right now are the ones running the same campaign for both.
