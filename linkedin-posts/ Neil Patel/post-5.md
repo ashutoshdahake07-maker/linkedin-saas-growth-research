@@ -1,1 +1,1 @@
-
+Touches 1 through 7 get you on their radar. Touches 8 through 11 close it. Response time to DMs. Return policies that don't feel like a trap. Reviews that sound like real people wrote them. Gen Z doesn't convert quietly. When they trust a brand, they post about it and send it to people. That word of mouth starts the next person's 11 touches. The funnel didn't disappear. It just moved.
