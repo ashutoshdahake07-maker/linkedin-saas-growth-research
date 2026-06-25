@@ -1,1 +1,1 @@
-
+Every generation has a different relationship with money. Gen Z's top priority is travel and experiences. Boomers are focused on retirement. Those aren't just different budgets. They're different worldviews. The brands connecting with Gen Z right now aren't pushing value or longevity. They're selling right now. The message has to match the mindset.
