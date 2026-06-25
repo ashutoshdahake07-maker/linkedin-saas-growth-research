@@ -76,22 +76,22 @@ She's also honest about what doesn't work. No fluff about "be authentic"—she's
 
 ---
 
-## 5. David Cancel — Drift
+## 5. Neil Patel — NP Digital
 
-**LinkedIn:** linkedin.com/in/davidcancel (68K followers)  
-**What he does:** CEO of Drift (acquired). Posts about product-led growth, customer engagement, product strategy.
+**LinkedIn:** linkedin.com/in/neilpatel (817K+ followers)  
+**What he does:** Co-founder of NP Digital. Posts about SEO, content marketing, demand gen, and increasingly how AI is changing search and content.
 
 **Why he's high-signal:**
 
-Built Drift from zero to unicorn. That's not luck. He's thoughtful about product and growth.
+He's one of the most-followed digital marketers in the world and actually runs a large agency (NP Digital), so he's not just commentating — he's executing campaigns for real clients daily. NYT bestselling author, called a top influencer by The Wall Street Journal.
 
-His posts are often contrarian. He'll say things like "The era of free trials is ending" before it's obvious. His reasoning is usually sound.
+His posts are practical and tactical. He breaks down email metrics, content strategy, SEO shifts, and how AI is reshaping organic search.
 
 **What to watch for:**
 
-Product-led growth (PLG) frameworks. He's been thinking about this longer than most people in the space. His insights on onboarding and engagement are useful.
+His take on what's changing in search and content with AI (AEO, click-through vs. opens, the shift in how people discover content). Useful for understanding the demand-gen side of B2B SaaS growth.
 
-He also posts about when to build vs. buy, which is a founder decision most people get wrong.
+He posts short video-style content too, which gives a different format signal compared to the long-form essayists in the set.
 
 ---
 
