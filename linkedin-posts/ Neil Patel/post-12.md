@@ -1,1 +1,1 @@
-
+Unilever scaled influencer spending 20x in two years. Consumers stopped trusting brand messaging so brands started following the trust instead. Creators who know their niche deeply are getting the deals. The ones who are loud but shallow are getting passed over.
