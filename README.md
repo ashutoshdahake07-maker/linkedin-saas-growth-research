@@ -1,129 +1,60 @@
 # LinkedIn Organic Content Strategy for B2B SaaS: What Actually Works
 
-**Research by:** Ashutosh Dahake  
-**Date:** June 2026  
+**Research by:** Ashutosh Dahake
+**Date:** June 2026
 
 ---
 
 ## Why I Did This Research
 
-I wanted to understand what separates practitioners from commentators on LinkedIn. Not the people who *talk about* growth, but people who *do* it. So I studied 10 founders and operators who've actually scaled SaaS companies and tracked their LinkedIn content over the last 90 days.
+I wanted to understand what separates practitioners from commentators on LinkedIn — not the people who *talk about* growth, but people who *do* it. So I studied 10 founders and operators who've actually scaled SaaS companies (or invested in the ones that did) and read their recent LinkedIn content closely.
 
-The goal: Extract patterns that work, not theory.
+The goal: extract patterns that work, not theory.
 
 ---
 
 ## The 10 People I Studied
 
-I picked these people because they've each built or scaled something real to $10M+ ARR (or invested in 20+ companies that did). They post regularly. And they're not generic.
+I picked these people because they've each built or scaled something real — to $10M+ ARR, or by investing in companies that did. They post regularly, and they're not generic.
 
-1. **Steli Efti** — CEO of Close CRM ($40M+ ARR). Obsesses over cold outreach and sales processes.
-2. **Jason M. Lemkin** — Founder of SaaStr. Basically the data warehouse of SaaS benchmarks.
-3. **Tomasz Tunguz** — VC who backs SaaS companies. Publishes their actual metrics quarterly.
-4. **April Dunford** — Positioning consultant who's worked with Google, Postman, Epic. Knows how winners position.
-5. **David Cancel** — Built Drift to unicorn status. Product-obsessed. Sold to Salesloft.
-6. **Oren Greenberg** — Runs demand gen agency, advises 20+ startups. Calls out what's hype vs. real.
-7. **Sangram Vajre** — Co-founder of Terminus. Literally invented ABM playbook for B2B.
-8. **Craig Hewitt** — Bootstrapped Infusionsoft to $100M+. Prefers profit over growth theater.
-9. **Mark Roberge** — Scaled HubSpot sales from 0 to $100M+. Built the playbook on hiring/onboarding.
-10. **Lara Acosta** — 240K followers on LinkedIn, zero paid promotion. Built pure content.
+1. **Steli Efti** — CEO of Close CRM. Cold outreach and sales process.
+2. **Jason M. Lemkin** — Founder of SaaStr. SaaS metrics and benchmarks.
+3. **Tomasz Tunguz** — VC at Theory Ventures. Publishes actual SaaS metrics.
+4. **April Dunford** — Positioning consultant (Google, Postman, Epic). How winners position.
+5. **Neil Patel** — One of the most-followed digital marketers. SEO, content, demand gen.
+6. **Oren Greenberg** — Runs a demand gen agency. Calls out hype vs. real.
+7. **Sangram Vajre** — Co-founder of Terminus. Invented the ABM playbook for B2B.
+8. **Craig Hewitt** — Bootstrapped SaaS to \$100M+. Profit over growth theater.
+9. **Mark Roberge** — Scaled HubSpot sales from 0 to \$100M+. Sales hiring and process.
+10. **Lara Acosta** — Top LinkedIn creator, built 240K+ followers organically. Content strategy.
+
+Full reasoning for each pick is in [\`/research/sources.md\`](./research/sources.md).
 
 ---
 
 ## What I Found
 
-I collected 15-20 recent posts from each person and looked for patterns. Here's what actually stands out:
+I read all 150 posts (15 per person) and looked for patterns. The full breakdown — with examples and my reasoning — is in [\`/research/analysis.md\`](./research/analysis.md). The short version:
 
-### The Format Thing
+- **AI is the backdrop to almost everything (~85% of posts).** By mid-2026, an "AI angle" is table stakes, not a differentiator. What stands out is a specific, contrarian claim about what AI changes in your lane — not generic AI enthusiasm.
 
-**Carousels crush everything else.**
+- **Creators split into two games: insight-first vs. offer-first.** Some (April, Tomasz, Jason) lead with ideas and sell quietly. Others (Lara, Sangram, Steli) use the post itself as a sales funnel. There's no universal content mix — it depends which game you're playing.
 
-6.6% engagement on carousels vs. 1-2% on text-only posts. Why? People swipe. Each swipe signals engagement to LinkedIn's algorithm. It's not mysterious—it's mechanics.
+- **Long-form text dominates, not carousels.** ~70% of posts are 300–700 word structured arguments with numbered lists. This is the workhorse format for operators and investors.
 
-Videos do 5x better than text. But they take 10x longer to produce. Most of these people don't post videos weekly (except Lara).
+- **Almost every strong post is a "reframe."** Name a belief → challenge it → give the real mechanic → end with a takeaway. This was the single most repeatable structure in the set.
 
-Text posts with a strong hook work, but only if they genuinely say something. "Here's what I learned about sales" doesn't work. "Why most cold email fails (and how to fix it)" works.
+- **Specificity builds trust.** Every strong post is anchored in a real number, name, or receipt. Vague posts barely exist.
 
-**One observation:** Nobody who's serious posts generic updates. No "Excited to announce..." fluff. No engagement bait. The algorithm actually punishes that now.
-
-### The Content Mix
-
-If you look at what these 10 post about:
-
-**~60% is problem-focused:** What are your buyers struggling with? What keeps them up at night?
-- Steli talks about sales objections founders face
-- Jason talks about why SaaS growth is slowing
-- April talks about why positioning fails
-
-**~25% is framework/solution:** How do you think about the problem differently?
-- Steli shares cold calling frameworks
-- Tomasz shares metric definitions and why they matter
-- Sangram shares ABM playbooks
-
-**~15% is company/product:** Here's what we did. Here's what happened.
-- Close shares customer stories (rarely)
-- Drift shares product updates (rarely)
-- Terminus shares case studies (rarely)
-
-The second group rarely posts "buy our product" content. When they do, it's buried in a larger insight. That seems intentional.
-
-### Posting Frequency & Consistency
-
-The algorithm in 2025-2026 rewards depth over volume.
-
-Jason posts 3-4x per week. Consistent. Steli posts 2-3x weekly. Consistent. Lara posts 5-6x weekly but each one is polished.
-
-The people who post once a week or randomly? Lower engagement overall. Consistency seems to matter more than frequency.
-
-Nobody's posting 10x daily anymore. That was 2023.
-
-### Engagement Signals That Actually Matter
-
-LinkedIn added new tracking in late 2025:
-
-**Saves & sends** — When someone saves your post or sends it to a colleague via DM, that's a strong signal. These creators track this obsessively.
-
-**Profile views from target accounts** — Tomasz and Mark specifically mention this. If the right people are visiting your profile, the algorithm notices.
-
-**Unsolicited DMs** — Several of these creators mention this as the real KPI. Not "did this go viral," but "did someone DM me about this?"
-
-**Dwell time on carousels** — How long people spend on each slide. Longer = better signal.
-
-**What doesn't matter:** Likes are basically noise. Total reach is vanity. Follower count growth is a lagging indicator.
-
-### The Tone
-
-These aren't cheerleaders. They're direct.
-
-Steli will tell you "most sales teams are bad." Jason will say "your NRR is probably declining and you don't know it." April will say "your positioning is broken."
-
-It's not mean, but it's not sugar-coated either. They identify real problems, then solve them.
-
-Lara is the exception—more empowering tone—but she also delivers insights, not fluff.
-
-### What's Conspicuously Absent
-
-Nobody posts about:
-- Work-life balance (that's TikTok)
-- Personal stories unrelated to the work
-- Engagement bait ("React if you agree...")
-- Controversy for clout
-- AI hype without substance
-
-There's a line these creators don't cross. They're building credibility, not collecting followers.
+- **The strongest creators build named frameworks**, not random tips — and repeat them across dozens of posts.
 
 ---
 
-## How I'm Using This
+## A note on honesty
 
-I'm going to build a LinkedIn content calendar for B2B SaaS growth work based on this:
+My initial assumptions (in an earlier draft of this README) included some claims I couldn't actually verify once I read the full dataset — for example, a specific "carousel engagement" statistic and a fixed 60/25/15 content mix. After reading all 150 posts, the evidence didn't support those, so I removed them and documented exactly where and why in the analysis.
 
-1. **Carousel framework:** Problem identification → Current approach → Why it fails → Better framework → Implementation
-2. **Posting schedule:** 3x per week (Tuesday/Thursday/Saturday seems common)
-3. **Topic mix:** 60/25/15 (problem/solution/company)
-4. **Engagement targets:** Focus on saves/sends and profile views, not likes
-
-The real insight: These people aren't playing the LinkedIn game. They're using LinkedIn as a distribution channel for genuine expertise. That distinction matters.
+The only finding in the corpus backed by large-scale external data is Mark Roberge's post citing a study of 6,753 LinkedIn posts. Where my own reading and that data agreed, I leaned on the data. Where the original framing got ahead of the evidence, I said so. I'd rather flag the limits of the dataset than present estimates as facts.
 
 ---
 
@@ -131,22 +62,27 @@ The real insight: These people aren't playing the LinkedIn game. They're using L
 
 If I were hiring for growth marketing, this project shows:
 
-- **Research judgment:** I didn't just Google "top SaaS influencers." I looked for people with real track records.
-- **Pattern recognition:** I noticed what works vs. what doesn't across 100+ posts.
-- **Synthesis:** I didn't just list findings—I connected them into frameworks.
-- **Execution:** I organized this so it's actually usable, not just a dump of observations.
+- **Research judgment** — I chose practitioners with real track records, not the first Google results.
+- **Pattern recognition** — I found consistent structures across 150 posts.
+- **Synthesis** — I connected findings into a usable playbook, not just a list of observations.
+- **Intellectual honesty** — I updated my conclusions when the evidence contradicted my assumptions.
 
 ---
 
 ## Repository Structure
 
+\`\`\`
+/research
+  sources.md              # The 10 experts + why I picked them
+  analysis.md             # Full breakdown of patterns, with examples
+  /linkedin-posts/        # The posts I collected, organized by person
+    steli-efti/
+    jason-lemkin/
+    ... (8 more)
+
+README.md                 # This file
+\`\`\`
+
 ---
 
-## Next Steps
-
-- Collect all 150-200 posts (15-20 per person)
-- Organize by theme (positioning, metrics, sales, product, demand gen)
-- Write analysis.md with deeper insights per category
-- Build a playbook based on what I learned
-
-Last committed: June 24, 2026
+Last updated: June 25, 2026
