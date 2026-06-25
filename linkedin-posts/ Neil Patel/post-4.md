@@ -1,1 +1,1 @@
-
+Everyone has content now. The problem was never making enough of it. It was always knowing what to do with it, who sees it, when, in what order, and why. That's judgment. That's taste. AI fills the funnel. You decide how it flows. Those are two very different jobs, and only one of them compounds.
